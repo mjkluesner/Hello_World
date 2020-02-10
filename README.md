@@ -1,2 +1,5 @@
 # Hello_World
-Proper assignment
+
+Hi Humans!
+
+This is Mariah. I like Taylor Swift and podcasts. 
