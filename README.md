@@ -1,6 +1,6 @@
 # Hello_World
 
-Practive Repository
+Practice Repository
 
 Hi Humans!
 
